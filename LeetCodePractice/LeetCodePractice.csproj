@@ -48,16 +48,27 @@
     <Compile Include="Question\Q1108.cs" />
     <Compile Include="Question\Q1266.cs" />
     <Compile Include="Question\Q1295.cs" />
+    <Compile Include="Question\Q1304.cs" />
+    <Compile Include="Question\Q1309.cs" />
+    <Compile Include="Question\Q1323.cs" />
     <Compile Include="Question\Q1342.cs" />
     <Compile Include="Question\Q1365.cs" />
     <Compile Include="Question\Q1431.cs" />
+    <Compile Include="Question\Q1436.cs" />
+    <Compile Include="Question\Q1450.cs" />
+    <Compile Include="Question\Q1464.cs" />
     <Compile Include="Question\Q1470.cs" />
     <Compile Include="Question\Q1512.cs" />
     <Compile Include="Question\Q1528.cs" />
+    <Compile Include="Question\Q1572.cs" />
     <Compile Include="Question\Q1603.cs" />
     <Compile Include="Question\Q1672.cs" />
     <Compile Include="Question\Q1678.cs" />
     <Compile Include="Question\Q1720.cs" />
+    <Compile Include="Question\Q1725.cs" />
+    <Compile Include="Question\Q1732.cs" />
+    <Compile Include="Question\Q1748.cs" />
+    <Compile Include="Question\Q832.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -11,10 +11,10 @@ namespace LeetCodePractice
     {
         static void Main(string[] args)
         {
-            int[][] input = new int[][] { new int[] { 1, 1 }, new int[] { 3, 4 }, new int[] {-1,0 } };
-            var q = new Q1266();
-            var result = q.MinTimeToVisitAllPoints(input);
-            Console.WriteLine(result);
+            int[] input = new int[] {1,2,3,4,5};
+            Q1748 Q = new Q1748();
+            
+            Console.WriteLine(Q.SumOfUnique(input));
             Console.ReadLine();
         }
     }
